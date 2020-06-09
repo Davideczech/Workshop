@@ -1,0 +1,1 @@
+MAC check script loads information from json_data.json (database macs and vendors) and from Device_MAC.csv. Columns in Device_MAC represents MAC addresses (without .), ints where the MAC was learned and list of all switch interfaces. 
